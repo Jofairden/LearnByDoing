@@ -1,0 +1,7 @@
+1.0
+0
+1.0
+First line is a multiplier for the beneficial effects of skills. Setting this to a negative value will probably have some really weird consequences.
+Second line is a flat adjustment to the values of some skills (damage, health, movespeed, jump speed)
+It is not recommended to go below -0.5 on this value. -0.05 will normalize to vanilla values pretty early on with skill boosts.
+Third line is a multiplier to all experience gained. Setting this to a negative value will probably have some really weird consequences.
