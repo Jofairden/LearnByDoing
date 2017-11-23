@@ -1,5 +1,5 @@
 author = Hiccup251
-version = 0.6
+version = 0.6.1
 displayName = Learn by Doing
 homepage = https://forums.terraria.org/index.php?threads/learn-by-doing.55582/
 hideCode = false
